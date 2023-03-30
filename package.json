@@ -1,6 +1,6 @@
 {
   "name": "api_client-package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a package, combining functions to help interacting with the public apis of this world.",
   "main": "index.js",
   "scripts": {
